@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aruldeva</h1>
 <h3 align="center">I'm a junior web developer with a passion for Python and a knack for building cool stuff. I specialize in a variety of libraries and frameworks, including OpenCV, Flask, NumPy, Matplotlib, Pyzbar, and ReportLab. My journey into the world of programming started with Python, and since then, I've been on an exciting learning adventure, exploring different aspects of web development, Computer Vision and artificial intelligence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aruldeva273&label=Profile%20views&color=0e75b6&style=flat" alt="aruldeva273" /> </p>
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=aruldeva273&label=Profile%20views&color=0e75b6&style=flat" alt="aruldeva273" /> </p>*/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aruldeva273" alt="aruldeva273" /></a> </p>
 
