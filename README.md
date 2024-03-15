@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aruldeva273?tab=repositories](https://github.com/aruldeva273?tab=repositories)
 
-- 📄 This is my resume **https://drive.google.com/file/d/11bfgWAWNy05WxkkL6R_ul47OYMgsT2hg/view?usp=drive_link**
+- 📄 This is my resume [https://drive.google.com/file/d/11bfgWAWNy05WxkkL6R_ul47OYMgsT2hg/view?usp=drive_link](Click to open)
 
 - 📫 How to reach me **aruldeva273@gmail.com**
 
